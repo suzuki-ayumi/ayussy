@@ -1,0 +1,48 @@
+{
+  "name": "ayussy",
+  "version": "1.0.0",
+  "description": " self appeal ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzuki-ayumi/ayussy.git"
+  },
+  "keywords": [
+    "ayussy",
+    "suzuki",
+    "ayumi"
+  ],
+  "author": "ayussy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzuki-ayumi/ayussy/issues"
+  },
+  "homepage": "https://github.com/suzuki-ayumi/ayussy#readme",
+  "devDependencies": {
+    "babelify:": "^7.2.0",
+    "bluebird": "^3.1.1",
+    "browser-sync": "^2.10.1",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.5",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "jsx-loader": "^0.13.2",
+    "lodash": "^3.10.1",
+    "path": "^0.12.7",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-tools": "^0.13.3",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.6.1"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
+}
