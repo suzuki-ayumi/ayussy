@@ -1,1 +1,1 @@
-document.write("Hello webpack");
+alert('hello');

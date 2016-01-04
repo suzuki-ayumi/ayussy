@@ -54,7 +54,7 @@ var config = {
 };
 
 var tasks = { config: config };
-
+console.log(config.js.src);
 tasks.js = function() {
   gulp.src(config.js.src)
   .pipe(gulpPlumber())
