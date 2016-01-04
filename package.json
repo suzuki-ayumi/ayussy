@@ -46,6 +46,7 @@
   "dependencies": {
     "babel-preset-react": "^6.3.13",
     "babelify": "^7.2.0",
+    "gulp-dest": "^0.2.3",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "^4.0.5",
